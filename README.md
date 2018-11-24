@@ -1,2 +1,2 @@
-# Prisioners-Dilema1718
+# Prisioners-Dilemma1718
 CSP1718 Repository
